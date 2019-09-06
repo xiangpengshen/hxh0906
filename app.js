@@ -1,6 +1,7 @@
 //app.js
 // 测试git merge功能
 var merge = null;
+;;;
 App({
   onLaunch: function () {
     // 展示本地存储能力
